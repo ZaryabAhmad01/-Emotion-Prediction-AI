@@ -270,29 +270,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-```
 
-## 🚀 GitHub Repository Setup Commands
-
-```bash
-# Initialize git repository
-git init
-git add .
-git commit -m "Initial commit: Emotion Prediction AI with FastAPI backend and Streamlit frontend"
-
-# Create GitHub repository and push
-git branch -M main
-git remote add origin https://github.com/zaryabahmad/emotion-prediction-ai.git
-git push -u origin main
-```
-
-## 📊 Repository Badges (Add to README)
-
-You can also add these badges to your README:
-
-```markdown
-[![GitHub stars](https://img.shields.io/github/stars/zaryabahmad/emotion-prediction-ai)](https://github.com/zaryabahmad/emotion-prediction-ai/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/zaryabahmad/emotion-prediction-ai)](https://github.com/zaryabahmad/emotion-prediction-ai/network)
-[![GitHub issues](https://img.shields.io/github/issues/zaryabahmad/emotion-prediction-ai)](https://github.com/zaryabahmad/emotion-prediction-ai/issues)
-```
 
